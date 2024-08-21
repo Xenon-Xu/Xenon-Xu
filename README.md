@@ -1,4 +1,4 @@
-I am a PhD student at B, with a strong passion for Computer Science and its applications in Integrated Circuits. My research interests span across several domains, including:
+I am a PhD student at Fudan University, with a strong passion for Computer Science and its applications in Integrated Circuits. My research interests span across several domains, including:
 
  - **Computer Vision**: Exploring advanced techniques for image processing and analysis.
  - **Integrated Circuits**: Focusing on the intersection of software and hardware for efficient and scalable solutions.
